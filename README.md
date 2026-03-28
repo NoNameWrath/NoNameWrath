@@ -32,7 +32,7 @@ AI-powered fridge scanner — detects ingredients from a photo and suggests reci
 
 ## Connect
 
-[![X](https://img.shields.io/badge/@NoNameWrath-000?style=flat-square&logo=x&logoColor=fff)](https://twitter.com/NoNameWrath)
+[![X](https://img.shields.io/badge/@NoNameWrath-000?style=flat-square&logo=x&logoColor=fff)](https://twitter.com/_NoNameWrath)
 [![GitHub](https://img.shields.io/badge/NoNameWrath-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/NoNameWrath)
 
 ---
